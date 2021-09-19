@@ -27,7 +27,7 @@ function timed_login(user){
 
 }
 
-// implemation of authentication starts from here 
+// implemation of authentication 
 function start_authentication(username){
 
 }
@@ -77,5 +77,5 @@ function initialize_timer(){
 }
 
 function add_action(id, name, image, clickhander, template, parent){
-    
+
 }
